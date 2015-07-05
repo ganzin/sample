@@ -1,0 +1,16 @@
+﻿2015/07/05 1:44:01 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\wajo\Desktop\資料\3D資料\キャラクタ歩行プログラム\gameframe.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug/game.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\game.lib" /MACHINE:X86 /SAFESEH .\Debug/game.obj
+         .\Debug/main.obj
+         .\Debug/Move.obj
+     1>game.obj : warning LNK4075: /EDITANDCONTINUE は /OPT:LBR の指定によって無視されます。
+         gameframe.vcxproj -> C:\Users\wajo\Desktop\資料\3D資料\キャラクタ歩行プログラム\.\Debug\game.exe
+     1>プロジェクト "C:\Users\wajo\Desktop\資料\3D資料\キャラクタ歩行プログラム\gameframe.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.49
